@@ -27,7 +27,12 @@
 ![Alt Text](https://github.com/christianykyo/UKL012/blob/master/UKL%200.12.png)
 
 # UKL 1-2
+
+# Display Dashboard
 ![Alt Text](https://github.com/christianykyo/UKL012/blob/master/UKL%201.1.png)
+# Display Borrowing
 ![Alt Text](https://github.com/christianykyo/UKL012/blob/master/UKL%201.2.png)
+# Display Books
 ![Alt Text](https://github.com/christianykyo/UKL012/blob/master/UKL%201.3.png)
+# Display Members
 ![Alt Text](https://github.com/christianykyo/UKL012/blob/master/UKL%201.4.png)
