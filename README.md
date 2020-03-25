@@ -19,10 +19,11 @@
 ![Alt Text](https://github.com/christianykyo/UKL012/blob/master/UKL%200.8.png)
 # Table Dummy Buku
 ![Alt Text](https://github.com/christianykyo/UKL012/blob/master/UKL%200.9.png)
-# Table Dummy Level
+# Table Dummy Kategori
 ![Alt Text](https://github.com/christianykyo/UKL012/blob/master/UKL%200.10.png)
-# Table Dummy Petugas
+# Table Dummy Level
 ![Alt Text](https://github.com/christianykyo/UKL012/blob/master/UKL%200.11.png)
+# Table Dummy Petugas
 ![Alt Text](https://github.com/christianykyo/UKL012/blob/master/UKL%200.12.png)
 
 # UKL 1-2
